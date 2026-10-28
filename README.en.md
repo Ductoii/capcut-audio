@@ -4,7 +4,7 @@
 
 [Vietnamese](README.md) · [Releases](https://github.com/Ductoii/capcut-audio/releases)
 
-No Codex, AI, plugin, MCP, API key or chat request is needed at runtime. Cards and screenplay work use the separate [CapCut Cinematic Cards skill](https://github.com/Ductoii/capcut-cinematic-cards).
+No Codex, chatbot, plugin, MCP, API key or chat request is needed at runtime. Cards and screenplay work use the separate [CapCut Cinematic Cards skill](https://github.com/Ductoii/capcut-cinematic-cards).
 
 Requires Python 3.10–3.13 and FFmpeg/ffprobe:
 

@@ -4,7 +4,7 @@
 
 [English](README.en.md) · [Releases](https://github.com/Ductoii/capcut-audio/releases)
 
-Không cần Codex, AI, plugin, MCP, API key hay gửi yêu cầu về chat. Tool không làm card hoặc đọc kịch bản. Time/location và giới thiệu nhân vật dùng riêng [skill CapCut Cinematic Cards](https://github.com/Ductoii/capcut-cinematic-cards).
+Không cần Codex, chatbot, plugin, MCP, API key hay gửi yêu cầu về chat. Tool không làm card hoặc đọc kịch bản. Time/location và giới thiệu nhân vật dùng riêng [skill CapCut Cinematic Cards](https://github.com/Ductoii/capcut-cinematic-cards).
 
 ## Cài và mở
 
